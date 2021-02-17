@@ -18,5 +18,5 @@ Tecnologias:
 ## run server ##
 npm start
 
-##run server with nodemon##
+## run server with nodemon ##
 npm test
