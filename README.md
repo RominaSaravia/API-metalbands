@@ -1,6 +1,8 @@
 # API-metalbands
 API desarrollada para la react app metalbands.
 
+LiveDemo [--DEMO--](https://metalbands-api.herokuapp.com/)
+
 ## Esta API permite ejecutar las funciones básicas CRUD: ##
 - __Crear__ una nueva banda o artista
 - __Consultar__ la lista de bandas y artistas
